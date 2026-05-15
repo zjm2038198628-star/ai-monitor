@@ -1,0 +1,4 @@
+# Base dependencies for all profiles
+numpy>=1.24.0
+pyyaml>=6.0
+opencv-python-headless>=4.8.0
